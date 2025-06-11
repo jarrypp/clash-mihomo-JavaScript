@@ -1,5 +1,7 @@
 # clash-mihomo-JavaScript
 只是分享下自用的clash JavaScript 全局脚本
+自定义了分组（包括了AI筛选节点）
+参考了大佬的DNS防泄露（出处实在是找不到了，除了优化重构代码，其他东西非原创，感谢原版大佬的脚本提供了思路，以及规则分流的大佬@Loyalsoldier的clash-rules）
 
 使用方法1：
 在可以打开js文件的时候，直接在主界面替换（建议备份下原js脚本）
